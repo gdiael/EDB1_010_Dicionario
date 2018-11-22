@@ -1,6 +1,6 @@
 # Arquivo de Script MakeFile 
 # autor Gdiael Souto Barros
-# arquivo origem em https://github.com/gdiael/EDB1_010_Dicionario.git
+# arquivo origem em https://github.com/gdiael/EDB1_011_ElasticDict.git
 
 # flag de comando
 CC = g++
