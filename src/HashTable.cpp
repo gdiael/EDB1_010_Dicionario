@@ -118,6 +118,9 @@ bool HashTable::put(const string key, const string value)
     }
     
     // implement here
+    std::cout << "ERRO: Método put(string,string) ainda não foi implementado.\n" << std::endl;
+    std::exit(1);
+    return false;
 }
 
 /**
@@ -135,7 +138,12 @@ bool HashTable::remove(const string key)
         this->reduce();
     }
     
-    // implement here}
+    
+    // implement here
+    std::cout << "ERRO: Método remove(string) ainda não foi implementado.\n" << std::endl;
+    std::exit(1);
+    return false;
+}
 
 /**
  Este método calcular um valor numérico para a string 'key'.
